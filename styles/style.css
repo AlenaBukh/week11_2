@@ -1,0 +1,13 @@
+#txt {
+  border-radius: 5px;
+  border-color: blue;
+}
+
+button {
+  background-color: rgba(82, 142, 63, 0.743);
+  border: none;
+  border-radius: 5px;
+  width: 10%;
+  color: aliceblue;
+  justify-content: center;
+}
