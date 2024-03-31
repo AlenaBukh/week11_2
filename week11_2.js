@@ -10,7 +10,6 @@ function createTask() {
   listElement.appendChild(liElement);
   inputElement.value = "";
 }
-createTask();
 
 const checkTask = (event) => {
   const clickedLi = event.target;
